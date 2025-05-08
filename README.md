@@ -4,8 +4,8 @@
 * Our paper "MNHU-Net: A Multi-Scale Feature Fusion and Nested Structure-Based High-Order U-Net for Infrared Small Target Detection" has been accepted by 🎯 **IEEE Transactions on Aerospace and Electronic Systems (TAES)** 🎯, 2025.  <img src="https://img.shields.io/badge/IEEE%20TAES-2025%20Accepted-darkred?style=flat&logo=ieee&logoColor=white" width="150" style="vertical-align: middle;" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y-xiaoyang&show_icons=true&theme=merko&count_private=true&hide=prs" style="vertical-align: middle;width: 520px;" />
-  <img src="https://github-immortality.vercel.app/api?username=Y-xiaoyang" style="vertical-align: middle;width: 425px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Y-xiaoyang&show_icons=true&theme=merko&count_private=true&hide=prs" style="vertical-align: middle;width: 450px;" />
+  <img src="https://github-immortality.vercel.app/api?username=Y-xiaoyang" style="vertical-align: middle;width: 370px;" />
 </p>
 
 - 🌱 I am currently pursuing a PhD degree at the School of Electrical Engineering and Automation, Harbin Institute of Technology.
