@@ -11,6 +11,7 @@
 学术观点：表征空间并非静态分布，而更接近一种能量演化系统。模仿人类多视角对特征张量中的灰度尺度能量分布进行多视角学习，在多视角约束下逐步收敛形成的稳定态。。
 
 ***3. Xiaoyang Yuan, et al.** *"Dual-Pathway Feature Separation and Gated Fusion Network for Infrared Small Target Detection"* has been accepted by 🎯 **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** 🎯, 2025.  <img src="https://img.shields.io/badge/IEEE%20TGRS-2025%20Accepted-darkred?style=flat&logo=ieee&logoColor=white" width="150" style="vertical-align: middle;" /> 
+
 学术观点：不同类型的信息往往源于不同的生成机制，而非同一机制的不同侧面。统一建模带来模糊，分离建模才可能带来清晰的区域响应（显著性特征可视化）与结构表达（轮廓可视化）。
 
 ***4. Xiaoyang Yuan, et al.** "MNHU-Net: A Multi-Scale Feature Fusion and Nested Structure-Based High-Order U-Net for Infrared Small Target Detection" has been accepted by 🎯 **IEEE Transactions on Aerospace and Electronic Systems (TAES)** 🎯, 2025.  <img src="https://img.shields.io/badge/IEEE%20TAES-2025%20Accepted-darkred?style=flat&logo=ieee&logoColor=white" width="150" style="vertical-align: middle;" />  
