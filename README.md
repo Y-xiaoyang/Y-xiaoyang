@@ -5,6 +5,7 @@
 
 ### 2025 paper:
 ***1. Xiaoyang Yuan, et al.** *"FDPF-Net: A Full-scale Dynamic Pyramid Fusion Network for Infrared Small Target Detection"* has been accepted by 🎯 **IEEE Transactions on Geoscience and Remote Sensing (TGRS)** 🎯, 2025.  <img src="https://img.shields.io/badge/IEEE%20TGRS-2025%20Accepted-darkred?style=flat&logo=ieee&logoColor=white" width="150" style="vertical-align: middle;" /> 
+
 学术观点：当个体无法被稳定刻画时，其本质往往隐藏在群体的一致性之中。弱小目标缺乏稳定的共性表征，在跨尺度与多阶段中呈现出一定结构一致性。动态捕捉该类特征将有助于小目标分割。
 
 ***2. Xiaoyang Yuan, et al.** *"Visual Attention-Guided Multi-Perspective Learning and Location-Aware Network for Infrared Small Target Detection"* has been accepted by 🎯 **Pattern Recognition (PR)** 🎯, 2025.  <img src="https://img.shields.io/badge/Elsevier%20PR-2025%20Accepted-darkred?style=flat&logo=elsevier&logoColor=white" width="150" style="vertical-align: middle;" />  
